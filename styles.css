@@ -13,10 +13,7 @@ body{
 
 
 
-.mnav{
-    width: 100%;
-    background-color: black !important;
-}
+
 .container-cards{
     display: flex;
     justify-content: center;
